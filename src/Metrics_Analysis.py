@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 results = []
-latent_dims = [5, 5, 5, 5]
+latent_dims = [5, 10, 5, 5]
 
 for dim in latent_dims:
     df = pd.read_csv(f'/Volumes/D/GitHub-Portfolio/DeepLearning-MNIST-VAE/data/metrics_by_digit_latent_dim_{dim}.csv')
