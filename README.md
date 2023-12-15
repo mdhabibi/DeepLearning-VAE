@@ -22,7 +22,7 @@ The following visualizations encapsulate the model's performance, detailing how 
 ![MSE Comparison Across Different Latent Dimensions for Each Digit](images/MSE_Comparison.png)
 *Figure 1: MSE values across different latent dimensions.*
 
-![PSNR Comparison Across Different Latent Dimensions for Each Digit](path-to-your-psnr-plot.png)
+![PSNR Comparison Across Different Latent Dimensions for Each Digit](images/PSNR_Comparison.png)
 *Figure 2: PSNR values across different latent dimensions.*
 
 ### Conclusion and Model Selection
