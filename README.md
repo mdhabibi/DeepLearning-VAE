@@ -19,7 +19,7 @@ Both metrics were computed for 10 representative images from each digit class (0
 
 The following visualizations encapsulate the model's performance, detailing how each latent dimension fared in reconstructing the digits.
 
-![MSE Comparison Across Different Latent Dimensions for Each Digit](path-to-your-mse-plot.png)
+![MSE Comparison Across Different Latent Dimensions for Each Digit](images/MSE_Comparision.png)
 *Figure 1: MSE values across different latent dimensions.*
 
 ![PSNR Comparison Across Different Latent Dimensions for Each Digit](path-to-your-psnr-plot.png)
