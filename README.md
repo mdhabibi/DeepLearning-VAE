@@ -1,6 +1,27 @@
 # DeepLearning-MNIST-VAE
 
+A foray into the fascinating world of generative models with a focus on constructing a Variational Autoencoder (VAE) to interpret and recreate the MNIST dataset of handwritten digits.
 
+## Introduction to Variational Autoencoders and Generative AI
+
+Variational Autoencoders (VAEs) are a class of generative models that not only learn the intricacies of data but also its underlying probability distribution. By encoding data into a latent (hidden) space, they reduce dimensionality and capture the essence of data, which can then be used to generate new samples that were never seen during training but share the same statistical properties.
+
+The MNIST dataset is a cornerstone in the field of machine learning, providing a large set of 28x28 pixel grayscale images of handwritten digits (0-9). It's widely used for training and testing in the domain of computer vision, particularly for algorithms that involve image recognition.
+
+Generative AI encompasses models that can produce content. These models learn to capture the probability distribution of the training data and can generate new data points with variations. This has profound implications across fields such as design, art, and even data augmentation for machine learning models.
+
+## Purpose of This Repository
+
+The mission of this repository is to explore the capabilities of $\beta$-VAEs within the realm of generative AI, using the MNIST dataset as a proving ground. My aim is to:
+
+- Understand the nuances of VAEs and their role in generative AI.
+- Experiment with various latent space dimensions to identify the optimal configuration for digit reconstruction.
+- Visualize the latent space to gain insights into the data representation learned by the VAE.
+- Compare the reconstruction quality of a full VAE against a decoder-only model to understand the impact of each component.
+
+
+
+---
 
 
 
