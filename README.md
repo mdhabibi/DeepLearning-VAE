@@ -2,7 +2,7 @@
 
 A foray into the fascinating world of generative models with a focus on constructing a **$\beta$-Variational Autoencoder ($\beta$-VAE)** to interpret and recreate the **MNIST** dataset of handwritten digits.
 
-## Introduction to Variational Autoencoders and Generative AI
+## Introduction to Variational Autoencoders
 
 Variational Autoencoders (VAEs) are a class of generative models that not only learn the intricacies of data but also its underlying probability distribution. By encoding data into a latent (hidden) space, they reduce dimensionality and capture the essence of data, which can then be used to generate new samples that were never seen during training but share the same statistical properties.
 
@@ -22,10 +22,6 @@ The mission of this repository is to explore the capabilities of $\beta$-VAEs wi
 - Experiment with various latent space dimensions to identify the optimal configuration for digit reconstruction.
 - Visualize the latent space to gain insights into the data representation learned by the VAE.
 - Compare the reconstruction quality of a full VAE against a decoder-only model to understand the impact of each component.
-
-
-
----
 
 
 
@@ -96,6 +92,27 @@ The upper portion of the figure displays the original digit images, serving as t
 The lower section presents the digits reconstructed solely from the decoder part of the VAE, focusing on the model's ability to generate images from a reduced representation.
 
 By comparing the original and reconstructed images, we assess the fidelity with which the VAE and its decoder can reproduce the original data.
+
+## Project Summary and Acknowledgements
+
+This project represents a comprehensive exploration of the capabilities of $\beta$-Variational Autoencoders in the context of the MNIST dataset. Through extensive experimentation and analysis, I have developed a model that not only learns to effectively reconstruct digits but also offers insights into the latent structure of the data it represents.
+
+
+## Contributing
+
+I welcome contributions from individuals and communities alike. Whether it's improving the code, refining the models, enhancing documentation, or suggesting new features, your input is greatly appreciated. Please feel free to fork the repository, make changes, and submit pull requests. You can also open an issue to discuss potential changes or report bugs.
+
+## Contact
+
+Should you have any questions, feedback, or wish to discuss collaborative opportunities, please reach out to me via [GitHub Issues](https://github.com/mdhabibi) or email me directly at [habibi.physics@gmail.com](mailto:habibi.physics@gmail.com).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+
+---
+
+Thank you for your interest in our $\beta$-Variational Autoencoder project. I hope that it serves as a valuable resource for those interested in generative models and deep learning.
 
 
 
