@@ -15,8 +15,9 @@ The MNIST dataset is a cornerstone in the field of machine learning, providing a
 Generative AI encompasses models that can produce content. These models learn to capture the probability distribution of the training data and can generate new data points with variations. This has profound implications across fields such as design, art, and even data augmentation for machine learning models.
 
 The core structure of a variational autoencoder comprises five components, as illustrated in the diagram sourced from Wikipedia.
-
-![VAE_Basic](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/VAE_Basic.png/640px-VAE_Basic.png?download)
+<div align="center">
+  <img src="images/VAE_Basic_.png" width="400">
+</div>
 
 ## Purpose of This Repository
 
