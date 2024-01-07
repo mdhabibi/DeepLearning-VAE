@@ -1,7 +1,7 @@
 # **The End-to-End $\beta$-Variational Autoencoder (VAE) for MNIST Dataset**
 
 <div align="center">
-  <img src="images/poster.png" width="500">
+  <img src="images/poster.png" width="400">
 </div>
 
 An exploration into the fascinating world of generative models with a focus on constructing a **$\beta$-Variational Autoencoder ($\beta$-VAE)** to interpret and recreate the **MNIST** dataset of handwritten digits.
