@@ -16,7 +16,7 @@ Generative AI encompasses models that can produce content. These models learn to
 
 The core structure of a variational autoencoder comprises five components, as illustrated in the diagram sourced from Wikipedia.
 <div align="center">
-  <img src="images/VAE_Basic.png" width="400">
+  <img src="images/VAE_Basic.png" width="600">
 </div>
 
 ## Purpose of This Repository
