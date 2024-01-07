@@ -33,7 +33,7 @@ The mission of this repository is to explore the capabilities of $\beta$-VAEs wi
 
 ## Optimal Latent Space Dimension for VAE Model
 
-In the quest for the most effective Variational Autoencoder (VAE) model for digit reconstruction on the MNIST dataset, a comprehensive analysis was conducted to determine the optimal size of the latent space. Through meticulous experimentation with various latent dimensions, the goal was to find a balance between reconstruction accuracy and model complexity.
+In the quest for the most effective Variational Autoencoder (VAE) model for digit reconstruction on the MNIST dataset, a comprehensive analysis was conducted to determine the optimal size of the latent space. Through experimentation with various latent dimensions, the goal was to find a balance between reconstruction accuracy and model complexity.
 
 ### Comparative Analysis of Latent Dimensions
 
