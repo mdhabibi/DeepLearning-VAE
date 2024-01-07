@@ -4,7 +4,7 @@
   <img src="images/poster.png" width="500">
 </div>
 
-A foray into the fascinating world of generative models with a focus on constructing a **$\beta$-Variational Autoencoder ($\beta$-VAE)** to interpret and recreate the **MNIST** dataset of handwritten digits.
+An exploration into the fascinating world of generative models with a focus on constructing a **$\beta$-Variational Autoencoder ($\beta$-VAE)** to interpret and recreate the **MNIST** dataset of handwritten digits.
 
 ## Introduction to Variational Autoencoders
 
