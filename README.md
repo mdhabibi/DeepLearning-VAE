@@ -1,4 +1,4 @@
-# **The End-to-End $\beta$-Variational Autoencoder (VAE) for MNIST Dataset**
+# **The End-to-End $\beta$-Variational Autoencoder (VAE)**
 
 <div align="center">
   <img src="images/poster.png" width="300">
